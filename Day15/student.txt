@@ -1,3 +1,0 @@
-Name: Pramod
-Course: BCA
-Subject: Java
